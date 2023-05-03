@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22/08/2022, 08:27:53 PM
+    Author     : salas
+*/
+body {
+    background-color: green;
+}
+h1{
+    color: orange;
+    font-size: 36px;
+}
+p{
+    color: white;
+}
+.contenedor{
+    background-color:burlywood;
+    color: yellow;
+    margin: 32px;
+    border-radius: 25px;
+}
+.encabezado{
+    background-color: white;
+    border-radius: 45px;    
+}
+.foto{
+    width: 200px;
+    border-radius: 360px;
+}
